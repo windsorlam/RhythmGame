@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FTPL01_Line02
+  m_Shader: {fileID: 4800000, guid: 592cf449ab751224fb02b2dbdd605916, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 0672acc98e45272449b44a4f1a7c6287, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: V_CW_TAG
+        second: 0
+      data:
+        first:
+          name: V_CW_D_OPTIONS
+        second: 0
+      data:
+        first:
+          name: V_CW_W_OPTIONS
+        second: 0
+      data:
+        first:
+          name: _V_CW_Z_Bend_Size
+        second: 0
+      data:
+        first:
+          name: _V_CW_Z_Bend_Bias
+        second: 0
+      data:
+        first:
+          name: _V_CW_Y_Bend_Size
+        second: 0
+      data:
+        first:
+          name: _V_CW_X_Bend_Size
+        second: 0
+      data:
+        first:
+          name: _V_CW_Camera_Bend_Offset
+        second: 0
+      data:
+        first:
+          name: _V_CW_Fog_Density
+        second: 1
+      data:
+        first:
+          name: _V_CW_Fog_Start
+        second: 0
+      data:
+        first:
+          name: _V_CW_Fog_End
+        second: 100
+      data:
+        first:
+          name: _V_CW_Emission_Strength
+        second: 1
+      data:
+        first:
+          name: _InvFade
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _V_CW_Fog_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _V_CW_Emission_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: .932835817, g: .932835817, b: .932835817, a: .501960814}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

@@ -1,0 +1,109 @@
+fileFormatVersion: 2
+guid: 70f7327d1dc9ce54dbd0aaf5b2b7b46c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: DuckOb_Chandelier
+    100002: JumpOb_DiningChair
+    100004: JumpOb_DiningTable
+    100006: //RootNode
+    100008: DuckOb_Spikes
+    100010: Bottom
+    100012: Post1
+    100014: Post2
+    100016: Armature
+    100018: Top
+    100020: Canonball
+    100022: JumpOb_LongDiningTable
+    400000: DuckOb_Chandelier
+    400002: JumpOb_DiningChair
+    400004: JumpOb_DiningTable
+    400006: //RootNode
+    400008: DuckOb_Spikes
+    400010: Bottom
+    400012: Post1
+    400014: Post2
+    400016: Armature
+    400018: Top
+    400020: Canonball
+    400022: JumpOb_LongDiningTable
+    2300000: DuckOb_Chandelier
+    2300002: JumpOb_DiningChair
+    2300004: JumpOb_DiningTable
+    2300006: DuckOb_Spikes
+    2300008: Canonball
+    2300010: JumpOb_LongDiningTable
+    3300000: DuckOb_Chandelier
+    3300002: JumpOb_DiningChair
+    3300004: JumpOb_DiningTable
+    3300006: DuckOb_Spikes
+    3300008: Canonball
+    3300010: JumpOb_LongDiningTable
+    4300000: JumpOb_DiningChair
+    4300002: DuckOb_Spikes
+    4300004: JumpOb_DiningTable
+    4300006: DuckOb_Chandelier
+    4300008: Post1
+    4300010: Post2
+    4300012: Canonball
+    4300014: JumpOb_LongDiningTable
+    7400000: Default Take
+    7400002: PostBreak
+    7400004: Destruction
+    11100000: //RootNode
+    13700000: Post1
+    13700002: Post2
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

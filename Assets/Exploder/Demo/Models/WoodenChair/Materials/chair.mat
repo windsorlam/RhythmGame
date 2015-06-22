@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: chair
+  m_Shader: {fileID: 2, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 530fdc35a9812f940aab95f3543db5eb, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 2f8f05f0005f4314c8a8ed3dff4abcbd, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 2800000, guid: e05e7712c31cb8d41a7d63854d5dc254, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .115165912
+      data:
+        first:
+          name: _Parallax
+        second: .00499999989
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .61589998, g: .471500009, b: .471500009, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .5, g: .5, b: .5, a: 1}

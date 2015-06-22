@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Greeble
+  m_Shader: {fileID: 4800000, guid: 2f86ca6c15d57754da6e25a026ca2616, type: 3}
+  m_ShaderKeywords:
+  - V_CW_LIGHT_PER_VERTEX
+  - V_CW_TERRAINBLEND_VERTEXCOLOR
+  - V_CW_SELF_ILLUMINATED_OFF
+  - V_CW_IBL_OFF
+  - V_CW_FOG_OFF
+  - V_CW_VERTEX_COLOR_OFF
+  - V_CW_RIM_OFF
+  - V_CW_UNLIT_LIGHTMAP_ON
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DecalTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Cube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_IBL_Cube
+        second:
+          m_Texture: {fileID: 8900000, guid: 842cb2bb67128544495ec155a8ea8c0a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Specular_Lookup
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Control
+        second:
+          m_Texture: {fileID: 2800000, guid: ee6df1eca04af6b4093fc7b4a9b15f6a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Splat1
+        second:
+          m_Texture: {fileID: 2800000, guid: 4f5fc36cb7de8644e8afc50951a52293, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Splat2
+        second:
+          m_Texture: {fileID: 2800000, guid: 32bc330b2adb903488bc7459c038a697, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Splat3
+        second:
+          m_Texture: {fileID: 2800000, guid: 8d8acfa5b6d62e5409b0c00cc6ef5882, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Splat4
+        second:
+          m_Texture: {fileID: 2800000, guid: 8473a54f48442a14789c574a2880eea9, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Splat1_Bump
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_CW_Splat2_Bump
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: V_CW_TAG
+        second: 0
+      data:
+        first:
+          name: V_CW_D_OPTIONS
+        second: 0
+      data:
+        first:
+          name: V_CW_W_OPTIONS
+        second: 0
+      data:
+        first:
+          name: _V_CW_Z_Bend_Size
+        second: 10
+      data:
+        first:
+          name: _V_CW_Z_Bend_Bias
+        second: 0
+      data:
+        first:
+          name: _V_CW_Y_Bend_Size
+        second: 0
+      data:
+        first:
+          name: _V_CW_X_Bend_Size
+        second: 10
+      data:
+        first:
+          name: _V_CW_Camera_Bend_Offset
+        second: 10
+      data:
+        first:
+          name: _V_CW_Rim_Bias
+        second: .464150935
+      data:
+        first:
+          name: _V_CW_Fog_Density
+        second: .924528241
+      data:
+        first:
+          name: _V_CW_Fog_Start
+        second: 15
+      data:
+        first:
+          name: _V_CW_Fog_End
+        second: 35
+      data:
+        first:
+          name: _V_CW_IBL_Intensity
+        second: 1
+      data:
+        first:
+          name: _V_CW_IBL_Contrast
+        second: 1
+      data:
+        first:
+          name: _V_CW_Emission_Strength
+        second: .529999971
+      data:
+        first:
+          name: _V_CW_Specular_Intensity
+        second: 1
+      data:
+        first:
+          name: _V_CW_Fresnel_Bias
+        second: 1
+      data:
+        first:
+          name: _V_CW_IBL_Brightness
+        second: 0
+      data:
+        first:
+          name: _V_CW_Header
+        second: 0
+      data:
+        first:
+          name: _V_CW_DO
+        second: 0
+      data:
+        first:
+          name: _V_CW_Splat1_uvScale
+        second: 1
+      data:
+        first:
+          name: _V_CW_Splat2_uvScale
+        second: 1
+      data:
+        first:
+          name: _V_CW_Splat3_uvScale
+        second: 1
+      data:
+        first:
+          name: _V_CW_Splat4_uvScale
+        second: 2
+      data:
+        first:
+          name: V_CW_TERRAINBLEND
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _ReflectColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _V_CW_Rim_Color
+        second: {r: 1, g: .00735294819, b: .00735294819, a: 1}
+      data:
+        first:
+          name: _V_CW_Fog_Color
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _V_CW_Emission_Color
+        second: {r: 1, g: 1, b: 1, a: 1}

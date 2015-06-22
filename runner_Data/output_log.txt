@@ -1,0 +1,51 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.4448]
+    Renderer: NVIDIA GeForce GT 630
+    Vendor:   NVIDIA
+    VRAM:     1998 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\My Runner\runner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\DOTween.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\DOTween43.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\DOTween46.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: G:\My Runner\runner_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading G:\My Runner\runner_Data\Managed\Poly2Tri.dll into Unity Child Domain
+- Completed reload, in  0.085 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: G:\My Runner\runner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\My Runner\runner_Data\Managed\System.dll (this message is harmless)
+DOTWEEN :: DOTween auto-initialized with default settings (recycleAllByDefault: False, useSafeMode: True, logBehaviour: ErrorsOnly). Call DOTween.Init before creating your first tween in order to choose the settings yourself
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Coroutine couldn't be started because the the game object 'Floor' is inactive!
+ 
+(Filename:  Line: 826)
+
+Coroutine couldn't be started because the the game object 'Floor' is inactive!
+ 
+(Filename:  Line: 826)
+
+Coroutine couldn't be started because the the game object 'Center(Clone)' is inactive!
+ 
+(Filename:  Line: 826)
+

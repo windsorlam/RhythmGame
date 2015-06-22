@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FiretruckMaterial
+  m_Shader: {fileID: 4800000, guid: 8ac010d4ec0142c46aa352792453b46f, type: 3}
+  m_ShaderKeywords:
+  - V_EXH_VERTEX_COLOR_OFF
+  - V_EXH_IBL_OFF
+  - V_EXH_RIM_OFF
+  - V_EXH_FOG_ON
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 364c1dc803422504aa672312e023e8c2, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 8187d6e87512bb548b0993b67c8ae179, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _CubeIBL
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _V_INC_IBL_Cube
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .450519741
+      data:
+        first:
+          name: V_EXH_TAG
+        second: 0
+      data:
+        first:
+          name: V_EXH_D_OPTIONS
+        second: 0
+      data:
+        first:
+          name: V_EXH_W_OPTIONS
+        second: 0
+      data:
+        first:
+          name: V_EXH_FOG
+        second: 1
+      data:
+        first:
+          name: _V_EXH_X_Bend_Size
+        second: 0
+      data:
+        first:
+          name: _V_EXH_X_Bend_Bias
+        second: 0
+      data:
+        first:
+          name: _V_EXH_X_Bend_Offset
+        second: 7.55000019
+      data:
+        first:
+          name: _V_EXH_Y_Bend_Size
+        second: -.5
+      data:
+        first:
+          name: _V_EXH_Bend_Camera_Offset
+        second: 0
+      data:
+        first:
+          name: _V_EXH_Fog_Start
+        second: 8.10000038
+      data:
+        first:
+          name: _V_EXH_Fog_End
+        second: 222.600006
+      data:
+        first:
+          name: V_EXH_RIM
+        second: 0
+      data:
+        first:
+          name: V_EXH_VERTEX_COLOR
+        second: 0
+      data:
+        first:
+          name: V_EXH_IBL
+        second: 0
+      data:
+        first:
+          name: _V_EXH_Rim_Bias
+        second: .200000003
+      data:
+        first:
+          name: _BrightnessIBL
+        second: 1
+      data:
+        first:
+          name: V_EXH_LIGHT_PER
+        second: 0
+      data:
+        first:
+          name: V_EXH_SELF_ILLUMINATED
+        second: 0
+      data:
+        first:
+          name: V_INC_TAG
+        second: 0
+      data:
+        first:
+          name: V_INC_D_OPTIONS
+        second: 0
+      data:
+        first:
+          name: V_INC_LIGHT_PER
+        second: 0
+      data:
+        first:
+          name: V_INC_SELF_ILLUMINATED
+        second: 0
+      data:
+        first:
+          name: V_INC_W_OPTIONS
+        second: 0
+      data:
+        first:
+          name: _V_INC_X_Bend_Size
+        second: 0
+      data:
+        first:
+          name: _V_INC_X_Bend_Bias
+        second: 0
+      data:
+        first:
+          name: _V_INC_X_Bend_Offset
+        second: 0
+      data:
+        first:
+          name: _V_INC_Y_Bend_Size
+        second: 0
+      data:
+        first:
+          name: _V_INC_Camera_Bend_Offset
+        second: 0
+      data:
+        first:
+          name: _V_INC_Rim_Bias
+        second: .200000003
+      data:
+        first:
+          name: _V_INC_Fog_Density
+        second: 1
+      data:
+        first:
+          name: _V_INC_Fog_Start
+        second: 0
+      data:
+        first:
+          name: _V_INC_Fog_End
+        second: 100
+      data:
+        first:
+          name: _V_INC_IBL_Brightness
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _V_EXH_Fog_Color
+        second: {r: .26794982, g: .867647052, b: .694252193, a: 1}
+      data:
+        first:
+          name: _V_EXH_Rim_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _V_INC_Rim_Color
+        second: {r: 1, g: 1, b: 1, a: 1}
+      data:
+        first:
+          name: _V_INC_Fog_Color
+        second: {r: 1, g: 1, b: 1, a: 1}

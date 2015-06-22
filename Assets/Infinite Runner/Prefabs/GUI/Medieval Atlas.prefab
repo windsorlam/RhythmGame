@@ -1,0 +1,328 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: Medieval Atlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 2243f49ea42a8844d99365740415403e, type: 2}
+  sprites:
+  - name: Logo
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1757
+      width: 1024
+      height: 291
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1757
+      width: 1024
+      height: 291
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: MainBackground
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1370
+      width: 659
+      height: 386
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1370
+      width: 659
+      height: 386
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Button
+    outer:
+      serializedVersion: 2
+      x: 1529
+      y: 1978
+      width: 280
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 1529
+      y: 1978
+      width: 280
+      height: 70
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: SmallButton
+    outer:
+      serializedVersion: 2
+      x: 1927
+      y: 1757
+      width: 60
+      height: 60
+    inner:
+      serializedVersion: 2
+      x: 1927
+      y: 1757
+      width: 60
+      height: 60
+    rotated: 0
+    paddingLeft: .0833333358
+    paddingRight: .0833333358
+    paddingTop: .0833333358
+    paddingBottom: .0833333358
+  - name: Checkbox
+    outer:
+      serializedVersion: 2
+      x: 1529
+      y: 1790
+      width: 70
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 1529
+      y: 1790
+      width: 70
+      height: 70
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Twitter
+    outer:
+      serializedVersion: 2
+      x: 1646
+      y: 1790
+      width: 70
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 1646
+      y: 1790
+      width: 70
+      height: 70
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Facebook
+    outer:
+      serializedVersion: 2
+      x: 1717
+      y: 1790
+      width: 70
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 1717
+      y: 1790
+      width: 70
+      height: 70
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Pause
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1299
+      width: 70
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1299
+      width: 70
+      height: 70
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Coin
+    outer:
+      serializedVersion: 2
+      x: 1529
+      y: 1861
+      width: 116
+      height: 116
+    inner:
+      serializedVersion: 2
+      x: 1529
+      y: 1861
+      width: 116
+      height: 116
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: CoinMagnet
+    outer:
+      serializedVersion: 2
+      x: 1646
+      y: 1861
+      width: 116
+      height: 116
+    inner:
+      serializedVersion: 2
+      x: 1646
+      y: 1861
+      width: 116
+      height: 116
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: SpeedIncrease
+    outer:
+      serializedVersion: 2
+      x: 1810
+      y: 1932
+      width: 116
+      height: 116
+    inner:
+      serializedVersion: 2
+      x: 1810
+      y: 1932
+      width: 116
+      height: 116
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Invincibility
+    outer:
+      serializedVersion: 2
+      x: 1927
+      y: 1932
+      width: 116
+      height: 116
+    inner:
+      serializedVersion: 2
+      x: 1927
+      y: 1932
+      width: 116
+      height: 116
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: DoubleCoin
+    outer:
+      serializedVersion: 2
+      x: 1810
+      y: 1815
+      width: 116
+      height: 116
+    inner:
+      serializedVersion: 2
+      x: 1810
+      y: 1815
+      width: 116
+      height: 116
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Diamond
+    outer:
+      serializedVersion: 2
+      x: 1927
+      y: 1818
+      width: 88
+      height: 113
+    inner:
+      serializedVersion: 2
+      x: 1927
+      y: 1818
+      width: 88
+      height: 113
+    rotated: 0
+    paddingLeft: .170454547
+    paddingRight: .193181813
+    paddingTop: .017699115
+    paddingBottom: .0442477874
+  - name: Helvetica
+    outer:
+      serializedVersion: 2
+      x: 1025
+      y: 1800
+      width: 503
+      height: 248
+    inner:
+      serializedVersion: 2
+      x: 1025
+      y: 1800
+      width: 503
+      height: 248
+    rotated: 0
+    paddingLeft: .00397614297
+    paddingRight: .0139165008
+    paddingTop: .0161290318
+    paddingBottom: .0161290318
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

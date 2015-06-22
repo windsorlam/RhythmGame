@@ -1,0 +1,18 @@
+Score 10000 points.
+10000
+Score
+Cover a distance of 15000.
+15000
+Distance
+Collect 30 power-ups.
+30
+Powerups
+Jump 200 times.
+200
+Jump
+Slide 100 times.
+100
+Duck
+Collect 300 gems
+300
+Currency
